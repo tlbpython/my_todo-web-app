@@ -1,6 +1,2 @@
-study python
-study japanese 
-finish app
-eat lunch
-take a nap
-read book
+milk
+broccoli
