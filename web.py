@@ -10,9 +10,10 @@ def add_todo():
 
 
 
-st.subheader("GROCER LIST APP")
-st.title("Items to be purchased")
-st.write("Add items using input box below. Once items purchaed, select the checkbox and the item(s) will be removed.")
+st.subheader(":blue[GROCERY LIST APP]")
+st.title(":red[Items to be purchased]")
+st.write("*Add items using the input box below. Once item(s) purchased. select the checkbox to remove "
+         "item from the list*")
 
 for index, todo in enumerate(todos):
     checkbox = st.checkbox(todo, key=todo)
