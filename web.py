@@ -11,7 +11,7 @@ def add_todo():
 
 
 
-st.subheader("GROCERY LIST APP")
+st.subheader("GROCERY LIST APP2")
 st.title("Items to be purchased")
 st.write("Add items using input box below. Once items purchased, select the checkbox and the item(s) will be removed.")
 
